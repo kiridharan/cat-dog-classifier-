@@ -14,3 +14,23 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+# Cat Dog Classifier with TFlite
+If you wanna learn how add machine learning in Flutter Apps You can use Tflite
+
+```
+cd cat-dog-classifier
+flutter run
+```
+
+## If You have any problem Let me know
+## I found that later verison has some problem in null safety 
+ check it with
+ ```
+ flutter doctor
+ ```
+ or run with 
+ ``` 
+ flutter run --no-sound-null-safety
+ 
+ ```
