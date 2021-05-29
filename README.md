@@ -24,7 +24,7 @@ flutter run
 ```
 
 ## If You have any problem Let me know
-## I found that later verison has some problem in null safety 
+## I found that new verison has some problem in null safety 
  check it with
  ```
  flutter doctor
